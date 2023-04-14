@@ -1,0 +1,10 @@
+[package]
+name = "choice-string"
+version = "0.0.1"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+nom = "7"
+range_union_find = "0.4.4"
+thiserror = "1"
